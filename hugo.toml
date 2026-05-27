@@ -1,5 +1,5 @@
 baseURL = "https://rfqjntds2b-sudo.github.io/book/"
-languageCode = "ko-kr"
+locale = "ko-KR"
 title = "Books Blog"
 
 [params]
