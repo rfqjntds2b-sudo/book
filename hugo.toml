@@ -1,6 +1,0 @@
-baseURL = "https://rfqjntds2b-sudo.github.io/book/"
-locale = "ko-KR"
-title = "Books Blog"
-
-[params]
-description = "Books to Scrape에서 수집한 책 정보를 자동 게시하는 Hugo 블로그"
