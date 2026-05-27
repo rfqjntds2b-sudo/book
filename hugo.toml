@@ -1,0 +1,6 @@
+baseURL = "https://example.github.io/"
+languageCode = "ko-kr"
+title = "Books Blog"
+
+[params]
+description = "Books to Scrape에서 수집한 책 정보를 자동 게시하는 Hugo 블로그"
